@@ -1,4 +1,11 @@
+"""
+        Self-aware ai simulator!
+              (OmniMind)
 
+ Coded By Mohammad Taha Gorji\
+  GitHub: mr-r0ot
+
+"""
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 import torch
 import nltk
