@@ -1,3 +1,12 @@
+"""
+        Self-aware ai simulator!
+              (OmniMind)
+
+ Coded By Mohammad Taha Gorji\
+  GitHub: mr-r0ot
+
+"""
+
 import random
 import time
 import pickle
